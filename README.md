@@ -20,7 +20,7 @@
 
 ❗️ Non Deep Feed Forwad Neural Network 
 
-![](https://github.com/yashindulkar/Uber-Deep-Learning/blob/master/Images/Non%20DNN.png =200x200)
+![](https://github.com/yashindulkar/Uber-Deep-Learning/blob/master/Images/Non%20DNN.png)
 
 ❗️ Deep Feed Forwad Neural Network 
 
