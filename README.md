@@ -1,8 +1,8 @@
-### Uber Sentimental Analysis using Deep Learning 
+# Uber Sentimental Analysis using Deep Learning 
 
-# ➡️ The repository consists of Code & Datasets used for the sentimental analysis of Uber 
+## ➡️ The repository consists of Code & Datasets used for the sentimental analysis of Uber 
 
-# ⚫️ Project Insights
+### ⚫️ Project Insights
 
 1️⃣ Reading the CSV file from Twitter containing the Tweets 
 
@@ -16,6 +16,6 @@
 
 6️⃣ Using CNN for creating model and testing the same
 
-# Visual representation 
+### Visual representation 
 
 
