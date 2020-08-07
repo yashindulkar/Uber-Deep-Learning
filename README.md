@@ -16,7 +16,7 @@
 
 6️⃣ Using CNN for creating model and testing the same
 
-### Visual representation of Algorithms 
+### ⚫️ Visual representation of Algorithms 
 
 ❗️ Non Deep Feed Forwad Neural Network 
 
@@ -34,7 +34,7 @@
 
 ![](https://github.com/yashindulkar/Uber-Deep-Learning/blob/master/Images/word2vec.png)
 
-### Visual representation of Models
+### ⚫️ Visual representation of Models
 
 ❗️ Model of Non Deep Feed Forward Neural Network 
 
@@ -48,7 +48,7 @@
 
 ![](https://github.com/yashindulkar/Uber-Deep-Learning/blob/master/Images/Model_CNN.PNG)
 
-### Visual representation of Accuracy for Models
+### ⚫️ Visual representation of Accuracy for Models
 
 ❗️ Accuracy of 3000 Datasets for Non Deep Feed Forward Neural Network 
 
